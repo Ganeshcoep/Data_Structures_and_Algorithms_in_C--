@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Data_Structrues_and_Algorithms_inC++", "Data_Structrues_and_Algorithms_inC++\Data_Structrues_and_Algorithms_inC++.vcxproj", "{9F84FBC4-F291-49EF-AA60-3B7391ADFF38}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Concepts", "Concepts\Concepts.vcxproj", "{3F3C2289-8BE2-4542-A9AC-EC02E5A55900}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HowToDataStructures", "HowToDataStructures\HowToDataStructures.vcxproj", "{126B5D7F-A946-4BAF-BE7C-225FC7CD87B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -13,6 +17,14 @@ Global
 		{9F84FBC4-F291-49EF-AA60-3B7391ADFF38}.Debug|Win32.Build.0 = Debug|Win32
 		{9F84FBC4-F291-49EF-AA60-3B7391ADFF38}.Release|Win32.ActiveCfg = Release|Win32
 		{9F84FBC4-F291-49EF-AA60-3B7391ADFF38}.Release|Win32.Build.0 = Release|Win32
+		{3F3C2289-8BE2-4542-A9AC-EC02E5A55900}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3F3C2289-8BE2-4542-A9AC-EC02E5A55900}.Debug|Win32.Build.0 = Debug|Win32
+		{3F3C2289-8BE2-4542-A9AC-EC02E5A55900}.Release|Win32.ActiveCfg = Release|Win32
+		{3F3C2289-8BE2-4542-A9AC-EC02E5A55900}.Release|Win32.Build.0 = Release|Win32
+		{126B5D7F-A946-4BAF-BE7C-225FC7CD87B4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{126B5D7F-A946-4BAF-BE7C-225FC7CD87B4}.Debug|Win32.Build.0 = Debug|Win32
+		{126B5D7F-A946-4BAF-BE7C-225FC7CD87B4}.Release|Win32.ActiveCfg = Release|Win32
+		{126B5D7F-A946-4BAF-BE7C-225FC7CD87B4}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
